@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSocket", "LogSocket\LogSocket.csproj", "{FEDFBF9B-3C68-4C43-931B-F5736A27534E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogClient", "LogClient\LogClient.csproj", "{96F3EB5C-F3B6-41B4-A17A-847655E34814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDFBF9B-3C68-4C43-931B-F5736A27534E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDFBF9B-3C68-4C43-931B-F5736A27534E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDFBF9B-3C68-4C43-931B-F5736A27534E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDFBF9B-3C68-4C43-931B-F5736A27534E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F3EB5C-F3B6-41B4-A17A-847655E34814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F3EB5C-F3B6-41B4-A17A-847655E34814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F3EB5C-F3B6-41B4-A17A-847655E34814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F3EB5C-F3B6-41B4-A17A-847655E34814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
